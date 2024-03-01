@@ -1,3 +1,3 @@
 # MindCure
 
-MindCure Web App
+MindCure Web App for reduce stress.
